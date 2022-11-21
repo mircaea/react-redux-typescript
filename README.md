@@ -1,4 +1,4 @@
-## Demo use of React, TypeScript, Redux toolkit (with slices). with material ui and css modules
+### Demo use of React, TypeScript, Redux toolkit (with slices). with material ui and css modules
 
 Basics:
 
@@ -6,26 +6,25 @@ Basics:
 
 `npm run start`
 
-## Steps to reproduce this project starting from the git repo:
+### Steps to reproduce this project starting from the git repo:
 
-`[https://github.com/new](https://github.com/new)`
+- [https://github.com/new](https://github.com/new)
 
-Open "<> Code" and copy GitHub CLI command.
+- Open "<> Code" and copy GitHub CLI command.
 
-GitBash inside desired folder and run the copied command.
+- GitBash inside desired folder and run the copied command.
 
-Open the newly created folder.
+- Open the newly created folder.
 
-Create a React app with support for TypeScript inside current folder:
-`npx create-react-app . --template typescript`
+- Create a React app with support for TypeScript inside current folder:
 
-Install needed dependencies:
+  `npx create-react-app . --template typescript`
 
-`npm i @reduxjs/toolkit react-redux @mui/material @emotion/react @emotion/styled react-uuid`
+- Install needed dependencies:
 
-Run the project:
+  `npm i @reduxjs/toolkit react-redux @mui/material @emotion/react @emotion/styled react-uuid`
 
-`npm run start`
+- Run the project: `npm run start`
 
 Redux functionality:
 
